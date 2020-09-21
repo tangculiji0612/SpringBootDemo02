@@ -13,13 +13,14 @@
 	<artifactId>spring-boot-starter-parent</artifactId>
 	<version>1.5.3.RELEASE</version>
   </parent>
-
+  
   <dependencies>
-    <dependency>
+	  <dependency>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-web</artifactId>
-	</dependency>
+	  </dependency>
   </dependencies>
+  
   <build>
     <finalName>SpringBootDemo02</finalName>
   </build>
