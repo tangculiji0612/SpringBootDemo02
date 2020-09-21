@@ -22,7 +22,7 @@ public class Hello {
 	@RequestMapping("/hello")
 	@ResponseBody
 	public String hello() {
-		return "SpringBoot你大爷的！";
+		return "SpringBoot你大爷的！提交失败";
 	}
 
 }
